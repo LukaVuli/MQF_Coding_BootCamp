@@ -37,7 +37,7 @@ The codebase is split into three layers:
 ## 2. Folder structure
 
 ```
-MQF_Coding_Bootcamp/
+Coding_Bootcamp/
 │
 ├── main.py                     ← demo script (run this first)
 ├── requirements.txt
