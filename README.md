@@ -1,7 +1,6 @@
-# MQF Coding Bootcamp — Starter Codebase
+# Coding Bootcamp — Starter Codebase
 
 A clean, extensible Python codebase for quantitative finance work.
-Built for the **MQF (Masters in Quantitative Finance) two-day coding bootcamp**.
 
 ---
 
